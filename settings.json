@@ -21,7 +21,7 @@
   "rsvpTagline": "Your presence would mean the world to us and we can't imagine celebrating without you!",
   "rsvpDeadlineText": "September 15",
   "rsvpPhone": "76859674",
-  "rsvpWebhook": "",
+  "rsvpWebhook": "https://script.google.com/macros/s/AKfycbzJ1My07IvyvDZ3m9d5d9XhBbQByYruh06VqSkr9xx1zK6v56Zr0QivISmwB9XAm-9v/exec",
   "giftTitle": "Wedding Registry",
   "giftTagline": "Your presence is the best gift you can give us, but should you feel inclined, a wedding list is available.",
   "giftBankName": "",
