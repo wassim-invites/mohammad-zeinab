@@ -49,6 +49,14 @@
       "photo": ""
     }
   ],
-  "guests": {},
+  "guests": {
+    "Toufic-Bejjanis-Family": {
+      "en": "Toufic Bejjani's Family",
+      "members": [
+        "Toufic",
+        "Reine"
+      ]
+    }
+  },
   "_baseUrl": "https://wassim-invites.github.io/mohammad-zeinab/"
 }
