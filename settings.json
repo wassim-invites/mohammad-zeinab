@@ -28,29 +28,29 @@
   "giftBankAccount": "",
   "giftBankIban": "",
   "giftWhishHandle": "@MohammadZeinabWedding",
-  "bgMusic": "Zaher & Mira/music.mp3",
+  "bgMusic": "photos/music.mp3",
   "ghRepo": "wassim-invites/mohammad-zeinab",
   "formspreeId": "mdabaapd",
-  "heroBg": "Zaher & Mira/ZM2.jpg",
-  "namesBg": "Zaher & Mira/ZM3.jpg",
-  "countdownBg": "Zaher & Mira/ZM4.jpg",
-  "thanksBg": "Zaher & Mira/ZM5.jpg",
+  "heroBg": "photos/MZ4.jpg",
+  "namesBg": "photos/MZ1.jpg",
+  "countdownBg": "photos/MZ2.jpg",
+  "thanksBg": "photos/MZ3.jpg",
   "venuePhoto": "Zaher & Mira/venue.JPG",
   "storyItems": [
     {
       "caption": "Where it began",
       "date": "23.03.2023",
-      "photo": "Zaher & Mira/ZM2.jpg"
+      "photo": "photos/MZ3.jpg"
     },
     {
       "caption": "We got engaged",
       "date": "24.05.2025",
-      "photo": "Zaher & Mira/ZM5.jpg"
+      "photo": "photos/MZ1.jpg"
     },
     {
       "caption": "Soon...",
       "date": "25.06.2025",
-      "photo": "Zaher & Mira/ZM4.jpg"
+      "photo": "photos/MZ5.jpg"
     }
   ],
   "guests": {
