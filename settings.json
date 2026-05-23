@@ -1,14 +1,14 @@
 {
-  "groomName": "Mohammad",
-  "groomFamily": "Ghazzawi",
-  "brideName": "Zeinab",
-  "brideFamily": "Khalifeh",
-  "weddingDate": "2026-07-24",
+  "groomName": "Zaher",
+  "groomFamily": "Huneine",
+  "brideName": "Mira",
+  "brideFamily": "Chehade",
+  "weddingDate": "2026-09-26",
   "weddingTime": "20:00",
   "weddingDay": "Saturday",
   "venueName": "Grand Ballroom",
   "venueAddress": "Beirut, Lebanon",
-  "venueMap": "https://maps.app.goo.gl/iJbzwEn4FRAzzH4Y8",
+  "venueMap": "",
   "heroText": "We are getting married",
   "quranAr": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً",
   "quranRef": "— Surah Ar-Rum 30:21",
@@ -19,48 +19,35 @@
   "venueScriptTitle": "Time & Place",
   "thanksText": "Thank You",
   "rsvpTagline": "Your presence would mean the world to us and we can't imagine celebrating without you!",
-  "rsvpDeadlineText": "September 15",
-  "rsvpPhone": "76859674",
-  "rsvpWebhook": "https://script.google.com/macros/s/AKfycbzJ1My07IvyvDZ3m9d5d9XhBbQByYruh06VqSkr9xx1zK6v56Zr0QivISmwB9XAm-9v/exec",
+  "rsvpDeadlineText": "",
+  "rsvpPhone": "",
+  "rsvpWebhook": "",
   "giftTitle": "Wedding Registry",
   "giftTagline": "Your presence is the best gift you can give us, but should you feel inclined, a wedding list is available.",
   "giftBankName": "",
   "giftBankAccount": "",
   "giftBankIban": "",
-  "giftWhishHandle": "@MohammadZeinabWedding",
+  "giftWhishHandle": "",
   "bgMusic": "photos/music.mp3",
   "ghRepo": "wassim-invites/mohammad-zeinab",
-  "formspreeId": "mdabaapd",
-  "heroBg": "photos/MZ4.jpg",
-  "namesBg": "photos/MZ1.jpg",
-  "countdownBg": "photos/MZ2.jpg",
-  "thanksBg": "photos/MZ3.jpg",
-  "venuePhoto": "Zaher & Mira/venue.JPG",
+  "formspreeId": "",
   "storyItems": [
     {
       "caption": "Where it began",
-      "date": "23.03.2023",
-      "photo": "photos/MZ3.jpg"
+      "date": "",
+      "photo": ""
     },
     {
       "caption": "We got engaged",
-      "date": "24.05.2025",
-      "photo": "photos/MZ1.jpg"
+      "date": "",
+      "photo": ""
     },
     {
       "caption": "Soon...",
-      "date": "25.06.2025",
-      "photo": "photos/MZ5.jpg"
+      "date": "",
+      "photo": ""
     }
   ],
-  "guests": {
-    "Ryan-Abboudys-Family": {
-      "en": "Ryan Abboudy's Family",
-      "members": [
-        "Ryan",
-        "Wafaa"
-      ]
-    }
-  },
+  "guests": {},
   "_baseUrl": "https://wassim-invites.github.io/mohammad-zeinab/"
 }
