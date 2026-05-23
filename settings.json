@@ -53,14 +53,6 @@
       "photo": "photos/MZ5.jpg"
     }
   ],
-  "guests": {
-    "Wassim-El-Babas-Family": {
-      "en": "Wassim El Baba's Family",
-      "members": [
-        "Wassim",
-        "Lara"
-      ]
-    }
-  },
+  "guests": {},
   "_baseUrl": "https://wassim-invites.github.io/mohammad-zeinab/"
 }
