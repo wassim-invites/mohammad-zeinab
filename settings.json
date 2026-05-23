@@ -1,8 +1,8 @@
 {
-  "groomName": "Zaher",
-  "groomFamily": "Huneine",
-  "brideName": "Mira",
-  "brideFamily": "Chehade",
+  "groomName": "Mohammad",
+  "groomFamily": "Ghazzawi",
+  "brideName": "Zeinab",
+  "brideFamily": "Khalifeh",
   "weddingDate": "2026-09-26",
   "weddingTime": "20:00",
   "weddingDay": "Saturday",
@@ -31,6 +31,7 @@
   "bgMusic": "photos/music.mp3",
   "ghRepo": "wassim-invites/mohammad-zeinab",
   "formspreeId": "",
+  "heroBg": "photos/MZ4.jpg",
   "storyItems": [
     {
       "caption": "Where it began",
