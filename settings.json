@@ -1,0 +1,66 @@
+{
+  "groomName": "Mohammad",
+  "groomFamily": "Ghazzawi",
+  "brideName": "Zeinab",
+  "brideFamily": "Khalifeh",
+  "weddingDate": "2026-07-24",
+  "weddingTime": "20:00",
+  "weddingDay": "Saturday",
+  "venueName": "Grand Ballroom",
+  "venueAddress": "Beirut, Lebanon",
+  "venueMap": "https://maps.app.goo.gl/iJbzwEn4FRAzzH4Y8",
+  "heroText": "We are getting married",
+  "quranAr": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً",
+  "quranRef": "— Surah Ar-Rum 30:21",
+  "inviteTagline": "Request the honor of your presence at their wedding",
+  "countdownPre": "Not long to go...",
+  "countdownPost": "... Until we become one!",
+  "storyTitle": "Our Story",
+  "venueScriptTitle": "Time & Place",
+  "thanksText": "Thank You",
+  "rsvpTagline": "Your presence would mean the world to us and we can't imagine celebrating without you!",
+  "rsvpDeadlineText": "September 15",
+  "rsvpPhone": "76859674",
+  "rsvpWebhook": "https://script.google.com/macros/s/AKfycbzcmdUU41f_viffgug0xTLgw3Pawc5j81fkMYoMbBNr4X-NN0YlhUBfPa4C5byFRr8J/exec",
+  "giftTitle": "Wedding Registry",
+  "giftTagline": "Your presence is the best gift you can give us, but should you feel inclined, a wedding list is available.",
+  "giftBankName": "",
+  "giftBankAccount": "",
+  "giftBankIban": "",
+  "giftWhishHandle": "@ZaherMiraWedding",
+  "bgMusic": "Zaher & Mira/music.mp3",
+  "ghRepo": "wassim-invites/mohammad-zeinab",
+  "formspreeId": "mdabaapd",
+  "heroBg": "Zaher & Mira/ZM2.jpg",
+  "namesBg": "Zaher & Mira/ZM3.jpg",
+  "countdownBg": "Zaher & Mira/ZM4.jpg",
+  "thanksBg": "Zaher & Mira/ZM5.jpg",
+  "venuePhoto": "Zaher & Mira/venue.JPG",
+  "storyItems": [
+    {
+      "caption": "Where it began",
+      "date": "23.03.2023",
+      "photo": "Zaher & Mira/ZM2.jpg"
+    },
+    {
+      "caption": "We got engaged",
+      "date": "24.05.2025",
+      "photo": "Zaher & Mira/ZM5.jpg"
+    },
+    {
+      "caption": "Soon...",
+      "date": "25.06.2025",
+      "photo": "Zaher & Mira/ZM4.jpg"
+    }
+  ],
+  "guests": {
+    "Wassim-El-Babas-Family": {
+      "en": "Wassim El Baba's Family",
+      "members": [
+        "Wassim",
+        "Lara"
+      ]
+    }
+  },
+  "_baseUrl": "https://wassim-invites.github.io/mohammad-zeinab/"
+}
